@@ -66,9 +66,9 @@ export const config = {
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "J2aWMC-FRkZhubwhENqoLmSzp_aWBf8j8w3WNOIrB3M",
       // 所在省份
-      province: "天津",
+      province: "山西",
       // 所在城市
-      city: "天津",
+      city: "临汾",
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '04-27',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
@@ -156,9 +156,9 @@ export const config = {
   /** 天气相关 */
 
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: "天津",
+  PROVINCE: "山西",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "天津",
+  CITY: "临汾",
 
   /** 重要节日相关 */
 
